@@ -1,6 +1,6 @@
 {
   "queryList" : ["virtualreality", "#vr", "#oculus", "#vive"],
-  "frequency" : 5 //minutes
+  "frequencyInMinutes" : 5
 }
 
 
